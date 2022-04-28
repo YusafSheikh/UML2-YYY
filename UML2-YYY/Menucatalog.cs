@@ -44,5 +44,7 @@ namespace UML2_YYY
                 Console.WriteLine($"{p.Value.Id} {p.Value.Name} {p.Value.Price}");
             }
         }
+
+  
     }
 }
